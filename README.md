@@ -15,10 +15,10 @@ https://qiita.com/okmt1230z/items/63f49e021c94077c343e
 プログラムを実行したら，解きたい問題ファイルの入力を求められますので，ファイル名を入力してください．(懇願)
 
 構成
-numpre_solver.py : 数独ソルバー
-toi_001.txt : 9x9の数独の問題ファイル
-toi_002.txt : 16x16の数独の問題ファイル
-toi_001.cnf : toi_001.txtのcnfファイル(プログラムを実行すると自動生成される)
-toi_001.cnf : toi_002.txtのcnfファイル(プログラムを実行すると自動生成される)
-sample.cnf : cnfのsample(SATソルバーが動くかどうかお試しください)
-sample.log : sample.cnfをSATソルバーclasp3.3.4で実行したログ
+- numpre_solver.py : 数独ソルバー
+- toi_001.txt : 9x9の数独の問題ファイル
+- toi_002.txt : 16x16の数独の問題ファイル
+- toi_001.cnf : toi_001.txtのcnfファイル(プログラムを実行すると自動生成される)
+- toi_001.cnf : toi_002.txtのcnfファイル(プログラムを実行すると自動生成される)
+- sample.cnf : cnfのsample(SATソルバーが動くかどうかお試しください)
+- sample.log : sample.cnfをSATソルバーclasp3.3.4で実行したログ
