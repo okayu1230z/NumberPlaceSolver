@@ -1,0 +1,11 @@
+c clasp version 3.3.4
+c Reading from sample.cnf
+c Solving...
+c Answer: 1
+v 1 -2 3 0
+s SATISFIABLE
+c 
+c Models         : 1+
+c Calls          : 1
+c Time           : 0.000s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+c CPU Time       : 0.000s
